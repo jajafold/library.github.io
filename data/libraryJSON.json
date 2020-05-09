@@ -1,0 +1,10 @@
+{
+	"Articul" : "xxxx-xxxx-xxxx",
+	"author" : "defaultName",
+	"name" : "defaultName",
+	"isAvailable" : "available",
+	"whoPicked" : [
+		"defaultPickerName1",
+		"defaultPickerName2",
+	]
+}
